@@ -1,4 +1,4 @@
-# GastoFácil — PWA
+# men$al — PWA
 
 PWA mobile-first de controlo financeiro pessoal.
 

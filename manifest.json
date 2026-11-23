@@ -1,8 +1,8 @@
 {
   "id": ".",
-  "name": "GastoFácil — controlo financeiro pessoal",
-  "short_name": "GastoFácil",
-  "description": "Controlo financeiro pessoal simples e rápido.",
+  "name": "men$al — controlo financeiro pessoal",
+  "short_name": "men$al",
+  "description": "Controlo financeiro pessoal simples e rápido com men$al.",
   "lang": "pt-PT",
   "start_url": "./",
   "scope": "./",
